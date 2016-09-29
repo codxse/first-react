@@ -5,7 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/codxse/first-react",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --progress --colors"
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --progress --colors",
+    "build-js": "node ./node_modules/webpack/bin/webpack.js --progress -p"
   },
   "author": "Nadiar",
   "license": "MIT",

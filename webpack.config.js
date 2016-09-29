@@ -5,7 +5,7 @@ module.exports = {
   output: {
     path: __dirname,
     publicPath: '/',
-    filename: 'app.js'
+    filename: '/assets/js/app.js'
   },
   module: {
     loaders: [{

@@ -1,3 +1,7 @@
+# READ FIRST
+
+I am no longer maintaining this project, a far far better code and very well documenting (with testing to) was realised by facebook. Here the repo (Create React App)[https://github.com/facebookincubator/create-react-app]
+
 # First React!
 
 Instead doing it again and again, this biolerplate will help you setup React environment with ES6 babel Support.
